@@ -54,59 +54,34 @@ configuration.
 •	Scale and adjust as needed: Adjust your VPC infrastructure to meet changing
 demands.
 
-Snap Shot:
+##OUTPUT:
 
- 
+<img width="942" height="455" alt="Screenshot 2026-11-16 102422" src="https://github.com/user-attachments/assets/bbbbc15b-547f-4f5d-a40b-59e103d1b39a" />
 
-Snapshot 1: Create VPC
- 
-Snapshot 2: Configuring Subnets
- 
+<img width="947" height="465" alt="Screenshot 2026-11-16 102614" src="https://github.com/user-attachments/assets/2d58630d-22db-422b-ac02-624c701462b7" />
 
-Snapshot 3: Configure Subnets
- 
+<img width="947" height="457" alt="Screenshot 2026-11-16 102631" src="https://github.com/user-attachments/assets/ad314733-25a8-4572-a0c5-1840ebda6287" />
 
-Snapshot 4: Setting Internet gateway
+<img width="951" height="455" alt="Screenshot 2026-11-16 102644" src="https://github.com/user-attachments/assets/17173895-adf9-4671-b39c-290f35eccf83" />
 
- 
-Snapshot 5: Setting Internet gateway
+<img width="947" height="452" alt="Screenshot 2026-11-16 102703" src="https://github.com/user-attachments/assets/1623d403-d5ac-4883-bd70-12f90515d9fc" />
 
+<img width="941" height="481" alt="Screenshot 2026-11-16 102716" src="https://github.com/user-attachments/assets/e1026829-e79c-48eb-be39-a0f9b80b0ac8" />
 
+<img width="946" height="461" alt="Screenshot 2026-11-16 102730" src="https://github.com/user-attachments/assets/34023421-0891-42c6-8808-3b8fdf66e987" />
 
- 
+<img width="937" height="450" alt="Screenshot 2026-11-16 102742" src="https://github.com/user-attachments/assets/d80d3b57-12da-4fd6-b7dd-00e068989696" />
 
-Snapshot 6: Setting Internet gateway
+<img width="937" height="450" alt="Screenshot 2026-11-16 102756" src="https://github.com/user-attachments/assets/3a29d718-70cf-4071-ab3b-95d644f76b47" />
 
- 
-Snapshot 7: Creating route table
-
- 
-
-Snapshot 8: Configuring route table
-
-
- 
-Snapshot 9: Editing routes
-
- 
-Snapshot 10: Creating route table
+<img width="832" height="442" alt="image" src="https://github.com/user-attachments/assets/99cd945b-ee06-4ec3-815c-e29132bfc0a5" />
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Developed By
+NAME: BHARANI KUMAR S
+REG NO: 212224230035
 
 
 Result:
